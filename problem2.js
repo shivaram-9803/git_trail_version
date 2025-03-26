@@ -2,6 +2,8 @@ let a = 10;
 
 let b =90;
 
-let sum = a+b;
+let c =100;
 
-console.log(a+b);
+let sum = a+b+c;
+
+console.log(sum);
